@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# zip and downloads
+
+*.zip
+*.zip.incomplete
+*.SAFE
+
 # C extensions
 *.so
 
