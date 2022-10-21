@@ -1,5 +1,3 @@
-import sentinelsat as ss
-import re
 from pathlib import Path
 from collections import OrderedDict
 from sentinelsat import SentinelAPI
